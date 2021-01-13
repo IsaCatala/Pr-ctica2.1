@@ -3,10 +3,10 @@ p {
     color: blue;
 }
 
-.especial1{
+p.especial1{
     color: green;
 }
 
-.especial2{
+p.navegador{
     color: red;
 }
